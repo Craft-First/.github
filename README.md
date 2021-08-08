@@ -1,6 +1,6 @@
 # .github
 
- ##This is a WIP directory.. mean to centralize templates utilised across all Craft-First Repositories
+## This is a WIP directory meant to centralize templates utilised across all Craft-First Repositories
 
 This is a repository for sharing the common workflow across all Craft-First Repositories. It is built according to the instructions provided here
 
