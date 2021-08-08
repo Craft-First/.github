@@ -1,0 +1,11 @@
+{
+    "name": "Craft-First Salesforce DX Package Build Workflow",
+    "description": "This template is a build workflow to be used across all Craft-First SFDX Projects",
+    "iconName": "sfpowerscripts",
+    "categories": [
+        "Salesforce DX"
+    ],
+    "filePatterns": [
+        "sfdx-project.json$"
+    ]
+}
