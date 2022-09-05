@@ -1,8 +1,9 @@
-# .github
+<div align="center">
+  <h1>Craft-First</h1>
+  <br />
+</div>
 
-## This is a WIP directory meant to centralize templates utilised across all Craft-First Repositories
+Craft-first is a collection of open source production ready libraries and frameworks built on our experience in delivering large and complex Salesforce programs. 
 
-This is a repository for sharing the common workflow across all Craft-First Repositories. It is built according to the instructions provided here
 
-https://docs.github.com/en/actions/learn-github-actions/sharing-workflows-with-your-organization
 
